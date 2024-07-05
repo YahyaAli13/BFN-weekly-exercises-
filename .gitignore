@@ -2,3 +2,18 @@
 *.log
 #ignore the node_modules directory
 node_modules/
+
+#ignore build directories
+dist/
+build/
+
+#ignore environment variables file
+.env
+
+#ignore system files
+.DS_Store
+Thumbs.db
+
+#ignore IDE.editor-specific files
+.vscode/
+.idea
