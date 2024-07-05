@@ -1,0 +1,4 @@
+#ignore all files
+*.log
+#ignore the node_modules directory
+node_modules/
